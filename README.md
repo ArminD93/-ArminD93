@@ -1,7 +1,6 @@
 # Hi, I'm Armin
 
 
-I'm currently working on my website and Big Five Personality data analysis project.
 
 
 ### Languages and Tools:
