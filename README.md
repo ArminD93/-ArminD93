@@ -9,7 +9,7 @@ I'm currently working on my website and Big Five Personality data analysis proje
 
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-[**My website**](https://armind93.github.io/)
+
 
 ### Connect with me:
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/armin-derencz/?locale=pl_PL)
